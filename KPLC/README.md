@@ -1,7 +1,6 @@
-cat << 'EOF' > README.md
 # Empirical Factor Research: Foreign Investor Flow Momentum on the NSE (KPLC)
 
-A quantitative finance research project analyzing whether daily institutional order flow from offshore investors on the Nairobi Securities Exchange (NSE) contains predictive alpha for **Kenya Power & Lighting Co. (KPLC)** across **2,319 trading sessions (2017–2026)**.
+A quantitative analysis research project analyzing whether daily institutional order flow from offshore investors on the Nairobi Securities Exchange (NSE) contains predictive alpha for **Kenya Power & Lighting Co. (KPLC)** across **2,319 trading sessions (2017–2026)**.
 
 ---
 
